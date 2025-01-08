@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php
-    echo"di senget tawon soker"
+    echo"cina yang terbuat dari lebah"
+    
     ?>
 </body>
 </html>
