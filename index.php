@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo"hello bebeb"
+    echo"aku cinta allah yang maha esa"
     ?>
 </body>
 </html>
