@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo"hello bebeb"
+    echo"di senget tawon soker"
     ?>
 </body>
 </html>
