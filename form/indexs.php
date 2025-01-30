@@ -95,7 +95,7 @@
     <input type="checkbox" name="encasa">encasa
     <input type="checkbox" name="hadrah">hadrah
     <input type="checkbox" name="tari">tari
-</p>
+</p> 
 
       
       
