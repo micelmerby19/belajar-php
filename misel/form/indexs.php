@@ -119,7 +119,7 @@ ekstrakulikuler yang di minati:
 <input type="checkbox" name="gerakan disiplin sekolah">gerakan disiplin sekolah
 
 <br /><br />
-<button type="submit" name="submit" value="simpan">Submit!</button>
+<button type="submit" name="submit" value="simpan">Submit!!</button>
 
 
 </body>
