@@ -122,6 +122,5 @@ ekstrakulikuler yang di minati:
 <button type="submit" name="submit" value="simpan">Simpan</button>
 
 
-    
 </body>
 </html>
