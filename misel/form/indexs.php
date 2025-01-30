@@ -115,7 +115,7 @@ ekstrakulikuler yang di minati:
 <input type="checkbox" name="remas">
 <input type="checkbox" name="uks,pmr">uks,pmr
 <input type="checkbox" name="futsal">futsal
-<input type="checkbox" name="laaskar hijau">laskar hijau
+<input type="checkbox" name="laaskar hijau">Laskar hijau
 <input type="checkbox" name="gerakan disiplin sekolah">gerakan disiplin sekolah
 
 <br /><br />
